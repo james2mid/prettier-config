@@ -1,6 +1,6 @@
 {
   "name": "@james2mid/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "👸 The clue's in the name",
   "main": ".prettierrc",
   "repository": "github:james2mid/prettier-config",

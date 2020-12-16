@@ -1,0 +1,12 @@
+{
+  "name": "@james2mid/prettier-config",
+  "version": "1.0.0",
+  "description": "👸 The clue's in the name",
+  "main": ".prettierc",
+  "repository": "github:james2mid/prettier-config",
+  "author": "James Middleton <hello@jamesmiddleton.me> (https://jamesmiddleton.me/)",
+  "license": "MIT",
+  "files": [
+    ".prettierrc"
+  ]
+}

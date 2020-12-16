@@ -4,8 +4,10 @@
   "description": "👸 The clue's in the name",
   "main": ".prettierc",
   "repository": "github:james2mid/prettier-config",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "James Middleton <hello@jamesmiddleton.me> (https://jamesmiddleton.me/)",
-  "license": "MIT",
   "files": [
     ".prettierrc"
   ]

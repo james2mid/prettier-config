@@ -7,8 +7,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "author": "James Middleton <hello@jamesmiddleton.me> (https://jamesmiddleton.me/)",
-  "files": [
-    ".prettierrc"
-  ]
+  "author": "James Middleton <hello@jamesmiddleton.me> (https://jamesmiddleton.me/)"
 }

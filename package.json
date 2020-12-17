@@ -2,7 +2,11 @@
   "name": "@james2mid/prettier-config",
   "version": "1.0.3",
   "description": "👸 The clue's in the name",
-  "main": ".prettierrc",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
   "repository": "github:james2mid/prettier-config",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

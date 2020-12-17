@@ -1,6 +1,6 @@
 {
   "name": "@james2mid/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "👸 The clue's in the name",
   "prettier": {
     "semi": false,
